@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body {
+    background-color: #030712;
+    color: #f8fafc;
+    min-height: 100vh;
+    color-scheme: dark;
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "DeadSpace AI",
+  "description": "Automatic silence and dead space removal tool for audio files with real-time waveform visualization, customizable silence thresholds, and instant preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

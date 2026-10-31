@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to fix audio clip arrangement and out-of-order merging using client-side speech recognition, natural numeric sorting, forward monotonic script-to-beat alignment, and an interactive clip order verification tray with audio preview.",
+  "updatedAt": "2026-10-14T06:16:20.940353160Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
